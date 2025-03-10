@@ -23,7 +23,7 @@ int main() {
         printf("Nghiem kep: x = %.2f\n", -b / (2 * a));
     } else {
         printf("Vo nghiem\n");
-        printf("Nhanh moi");
+        printf("Nhanh1");
     }
 
     return 0;
